@@ -5,6 +5,7 @@ import _ from 'lodash';
 import VueLazyload from 'vue-lazyload'
 
 import 'common/css/font-awesome.min.css'
+import 'common/sass/index.scss'
 
 Vue.config.productionTip = false
 

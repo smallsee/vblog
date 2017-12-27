@@ -11,7 +11,5 @@ export default {
 </script>
 
 <style scoped lang="scss" rel="stylesheet/scss">
-#app {
-  font-family:'MicroSoft YaHei', 'Avenir', Helvetica, Arial, sans-serif;
-}
+
 </style>
